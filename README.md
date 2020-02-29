@@ -14,9 +14,5 @@
 - [ ] Random Forest
 
 
-
-## CONTRIBUTORS
-- Hüsamettin Eken
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
